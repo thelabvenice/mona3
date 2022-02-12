@@ -2,17 +2,17 @@
   "CONTRACT_ADDRESS": "0x9124f254F3506Ad3610e112DDf96436EBbf759AF",
   "SCAN_LINK": "https://etherscan.io/address/0x9124f254f3506ad3610e112ddf96436ebbf759af",
   "NETWORK": {
-    "NAME": "Ethereum",
+    "NAME": "Ethererum",
     "SYMBOL": "ETH",
     "ID": 1
   },
   "NFT_NAME": "Mona Lisa Doodles",
   "SYMBOL": "MONA",
   "MAX_SUPPLY": 5000,
-  "WEI_COST": 5000000000000000,
-  "DISPLAY_COST": 0.005,
-  "GAS_LIMIT": 285000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 20000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/mona-lisa-doodles",
-  "SHOW_BACKGROUND": true
+  "SHOW_BACKGROUND":false
 }
